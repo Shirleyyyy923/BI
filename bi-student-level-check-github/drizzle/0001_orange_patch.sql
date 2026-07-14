@@ -1,0 +1,1 @@
+ALTER TABLE `submissions` ADD `school` text NOT NULL;
